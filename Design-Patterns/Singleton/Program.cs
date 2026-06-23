@@ -2,9 +2,9 @@ using System;
 
 namespace DesignPatterns.Singleton
 {
-    class Program
+    class SingletonDemo
     {
-        static void Main(string[] args)
+    public static void Run()
         {
             // Access the singleton instance and call its method
             Singleton.Instance.DoWork();

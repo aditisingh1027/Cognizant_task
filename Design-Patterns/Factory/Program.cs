@@ -3,9 +3,9 @@ using DesignPatterns.Factory;
 
 namespace DesignPatterns.FactoryDemo
 {
-    class Program
+    class FactoryDemo
     {
-        static void Main(string[] args)
+    public static void Run()
         {
             IProduct productA = ProductFactory.CreateProduct("A");
             productA.DoWork();

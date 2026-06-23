@@ -1,0 +1,48 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 00000072 8675:8A40
+C:.
+¦   .gitignore
+¦   Learning-Summary.md
+¦   Learning-Summary.md.metadata.json
+¦   README.md
+¦   README.md.metadata.json
+¦   repo.txt
+¦   Week1EngineeringConcepts.sln
+¦   Week1EngineeringConcepts.sln.metadata.json
+¦   
++---Design-Patterns
+¦   +---Factory
+¦   ¦       Factory.cs
+¦   ¦       Factory.cs.metadata.json
+¦   ¦       Program.cs
+¦   ¦       Program.cs.metadata.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---Singleton
+¦           Program.cs
+¦           Program.cs.metadata.json
+¦           README.md
+¦           Singleton.cs
+¦           
++---DSA
+¦   +---Arrays
+¦           LargestElement.cs
+¦           LargestElement.cs.metadata.json
+¦           README.md
+¦           README.md.metadata.json
+¦           
++---Notes
+¦       README.md
+¦       README.md.metadata.json
+¦       
++---Reviewer-Evidence
+¦       SOLID-Checklist.md
+¦       SOLID-Checklist.md.metadata.json
+¦       
++---SOLID-Principles
+    +---SRP
+            BadImplementation.cs
+            BadImplementation.cs.metadata.json
+            README.md
+            README.md.metadata.json
+            
