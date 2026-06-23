@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+*.metadata.json
+.system_generated/

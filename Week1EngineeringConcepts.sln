@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.457
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples", "SolidPrinciples\SolidPrinciples.csproj", "{B1A5A5EF-1C3E-4C3A-9F88-5C9A1B123456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{C2B6B6F0-2D4F-5D4B-AF99-6D0B2C234567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA", "DSA\DSA.csproj", "{D3C7C7F1-3E5G-6E5C-B0AA-7E1C3D345678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1A5A5EF-1C3E-4C3A-9F88-5C9A1B123456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A5A5EF-1C3E-4C3A-9F88-5C9A1B123456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A5A5EF-1C3E-4C3A-9F88-5C9A1B123456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A5A5EF-1C3E-4C3A-9F88-5C9A1B123456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B6B6F0-2D4F-5D4B-AF99-6D0B2C234567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B6B6F0-2D4F-5D4B-AF99-6D0B2C234567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B6B6F0-2D4F-5D4B-AF99-6D0B2C234567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B6B6F0-2D4F-5D4B-AF99-6D0B2C234567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C7C7F1-3E5G-6E5C-B0AA-7E1C3D345678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C7C7F1-3E5G-6E5C-B0AA-7E1C3D345678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C7C7F1-3E5G-6E5C-B0AA-7E1C3D345678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C7C7F1-3E5G-6E5C-B0AA-7E1C3D345678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
